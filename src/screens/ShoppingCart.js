@@ -43,7 +43,6 @@ const styles = StyleSheet.create({
         borderColor:"gray",
         borderTopWidth: 1,
         paddingTop: 10,
-        borderColor:"gainsboro"
     },
     row:{
         flexDirection:"row",
